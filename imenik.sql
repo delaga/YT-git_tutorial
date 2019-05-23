@@ -1,3 +1,8 @@
+/*
+C:\Users\mirza\Desktop\EDUNOVA\SQLexer
+*/
+
+
 drop database if exists imenik;
 create database imenik default character set utf8;
 use imenik;
