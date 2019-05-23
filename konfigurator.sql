@@ -1,3 +1,7 @@
+/*
+C:\Users\mirza\Desktop\EDUNOVA\SQLexer\konfigurator.sql
+*/
+
 drop database if exists konfigurator;
 create database konfigurator default character set utf8;
 use konfigurator;
